@@ -1,0 +1,108 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding:0;
+}
+body{
+    background-color: rgb(210, 191, 167);
+}
+.Div{
+    background-color:white;
+    width:560px;
+    height: auto;
+    margin: 30px auto;
+    border-radius: 5px;
+    padding:10px;
+    box-shadow: 2px 2px 5px 2px gray;
+}
+img{
+    width:450px;
+    border-radius: 10px;
+    margin: 15px 50px;
+}
+h1{
+    text-indent: 50px;
+    padding:10px;
+    text-transform:capitalize;
+    font-weight: bold;
+    font-size: 40px;
+}
+#paragraph{
+    color: gray;
+    text-indent: 3px;
+    text-align: justify;
+}
+.list1{
+    background-color:rgba(243, 171, 243,0.4);
+    border-radius: 5px;
+    margin: 30px auto;
+    padding: 2px 30px;
+    color: rgba(179, 179, 11, 0.89);
+    height: 180px;
+}
+.list1 h3{
+    color:rgb(233, 16, 233);
+    margin:15px auto;
+    padding: 0 15px;
+}
+.list1 li{
+   margin:10px;
+}
+.s1{
+    color: black;
+    margin: 0 3px;
+}
+.list2 {
+    background-color:white;
+    border-bottom:2px solid rgb(240, 234, 234);
+    margin: 20px auto;
+    padding:2px 40px 30px;
+    color: rgba(179, 179, 11, 0.89);
+    line-height: 1.8;
+}
+#h2{
+    color: rgb(113, 113, 7);
+    text-indent: 25px;
+}
+.s2{
+    color: rgba(179, 179, 11, 0.89);
+    margin:5px 10px;
+    padding:20px 0;
+    margin-top: 10px;
+    
+ }
+.olist1{
+    background-color:white;
+    border-radius: 5px;
+    margin: 20px auto;
+    padding: 2px 50px 30px;
+    color: rgba(179, 179, 11, 0.89);
+    border-bottom:2px solid rgb(240, 234, 234);
+}
+.s3{
+    line-height:2;
+}
+#paragraph2{
+    color:rgba(202, 108, 108, 0.889);
+    margin: 0 30px;
+}
+.table{
+    margin:0 30px;
+    padding:30px 0;
+    background-color:white;
+    line-height: 3;
+}
+td{
+    color: rgba(179, 179, 11, 0.89);
+
+}
+th{
+    color: rgb(127, 127, 4);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-indent: 200px;
+    font-size: 15px;
+}
+td,th{
+    border-bottom:2px solid rgb(240, 234, 234);
+    padding :10px;
+}
